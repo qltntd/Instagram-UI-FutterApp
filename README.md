@@ -1,4 +1,5 @@
 # Instagram Flutter Demo
+|Dark Mode | Light Mode |
 |:----|:----|
 |![](./demo/login_page.png)|![](./demo/home_page.png)|
 |![](./demo/activity_page.png)|![](./demo/search_page.png)|
